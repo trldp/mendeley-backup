@@ -1,0 +1,6 @@
+__pycache__/*
+venv/*
+tests/integration-tests/__pycache__/*
+tests/integration-tests/mendeley-backup-tests.conf
+tests/integration-tests/token.json
+tests/integration-tests/backup/*
